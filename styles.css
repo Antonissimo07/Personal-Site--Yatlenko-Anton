@@ -1,0 +1,34 @@
+body {
+  color: #913d88;
+  border: 1px solid #333;
+}
+table {
+border: inherit;
+}
+h2 {
+  color: red;/*колір заголовку*/
+  font-style: italic;/*визначення зображення шрифту*/
+  font-family: Geneva, Arial, sans-serif;/*Встановлює сімейство шрифту*/
+  height: 30px;/*Висота елементів*/
+}
+h4 {
+  color: red;/*колір заголовку*/
+  font-style: italic;/*визначення зображення шрифту*/
+  height: 30px;/*Висота елементів*/
+}
+.text1 {
+  text-decoration: underline;/*Установлює оформлення тексту*/
+}
+.text2prapor {
+  background-image: url("prapor.jpg");/*установлює фонове зображення для елементу*/
+}
+#header {
+  font-variant:small-caps;/*Визначає, як потрібно представляти малі літери*/
+}
+a:hover {/*робить стиль для елемента, на який наведено курсор миші*/
+  background: #786b59; /*колір фону під посиланням*/
+    color: #ffe;/*колір посилання*/
+  }
+  #example {
+    color: black;
+  }
